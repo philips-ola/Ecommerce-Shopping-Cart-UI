@@ -248,3 +248,10 @@ Natural next steps for study or further development include:
 - Add checkout validation and an order confirmation flow.
 - Improve accessibility with explicit labels, focus management, and keyboard interaction for the cart menu.
 
+## Developer
+
+- Name: Philips Ola
+- Role: Full-Stack Developer
+- Portfolio: https://olaphilips.com.ng
+- YOuTube: https://youtube.com/idtechnol
+- Linkdln : https://linkedin.com/in/olaphilips/
